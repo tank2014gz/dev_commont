@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="@android:color/darker_gray"
+    android:gravity="bottom"
+    android:layout_height="match_parent">
+
+
+
+
+    <android.support.v7.widget.RecyclerView
+        android:paddingLeft="9dp"
+        android:paddingRight="9dp"
+        android:id="@+id/share_plateform_list"
+        android:layout_width="match_parent"
+        android:paddingTop="12dp"
+        android:paddingBottom="6dp"
+        android:background="@android:color/white"
+        android:layout_height="wrap_content"></android.support.v7.widget.RecyclerView>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/share_other_operation_list"
+        android:paddingTop="12dp"
+        android:paddingLeft="9dp"
+        android:paddingRight="9dp"
+        android:layout_width="match_parent"
+        android:background="#f5f5f5"
+        android:layout_height="wrap_content"></android.support.v7.widget.RecyclerView>
+
+
+
+
+    <LinearLayout
+        android:id="@+id/font_setting_parentview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:visibility="gone"
+        android:background="@android:color/white"
+        android:gravity="center_vertical"
+        >
+
+        <ImageView
+            android:layout_marginTop="14dp"
+            android:src="@drawable/home_zitishezhi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+      <com.yly.kind.commonutils_library.widget.NewsFontSettingView
+        android:id="@+id/newsFontSettingView"
+        android:layout_width="wrap_content"
+        android:layout_weight="1"
+        android:layout_height="90dp"
+        android:background="@android:color/white"/>
+
+        <ImageView
+            android:src="@drawable/home_zitishezhida_a"
+            android:layout_width="wrap_content"
+            android:layout_marginTop="12dp"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <TextView
+        android:text="取消"
+        android:textColor="@color/web_progress_color"
+        android:padding="12dp"
+        android:gravity="center"
+        android:background="@android:color/white"
+        android:id="@+id/cancel_action"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+</LinearLayout>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.yly.kind.commonutils_library.demoActivity.DownloadActivity"
+    tools:showIn="@layout/activity_download"
+    >
+
+  <Button
+      android:id="@+id/download"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="download"
+      tools:layout_editor_absoluteX="8dp"
+      tools:layout_editor_absoluteY="0dp"
+      />
+  <Button
+      android:id="@+id/clearDB"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="clear_db"
+      tools:layout_editor_absoluteX="8dp"
+      tools:layout_editor_absoluteY="0dp"
+      />
+  <Button
+      android:id="@+id/clearFile"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="clear_file"
+      tools:layout_editor_absoluteX="8dp"
+      tools:layout_editor_absoluteY="0dp"
+      />
+  <Button
+      android:id="@+id/find_task_by_url"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="find_task_by_url"
+      tools:layout_editor_absoluteX="8dp"
+      tools:layout_editor_absoluteY="0dp"
+      />
+
+  <TextView
+      android:id="@+id/show_task_info"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      />
+
+  <Button
+      android:id="@+id/find_file_info"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="find_file_info"
+      />
+
+  <TextView
+      android:id="@+id/show_file_info"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      />
+
+  <ProgressBar
+      android:id="@+id/pb_progressbar"
+      android:layout_width="match_parent"
+      android:layout_height="2dp"
+      android:layout_marginTop="20dp"
+      android:max="100"
+      android:paddingLeft="10dp"
+      android:paddingRight="12dp"
+      android:progress="20"
+      android:progressDrawable="@drawable/progress_bar_air_blue"
+      tools:layout_editor_absoluteX="8dp"
+      tools:layout_editor_absoluteY="0dp"
+      style="?android:attr/progressBarStyleHorizontal"
+      />
+
+</LinearLayout>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\YLY _workspace\sample_zip\CommonUtils-library\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="D:\YLY _workspace\sample_zip\CommonUtils-library\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_a3b9d09148ca6b0d07651987617bdbf5cb48e232.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\YLY _workspace\sample_zip\CommonUtils-library\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="D:\YLY _workspace\sample_zip\CommonUtils-library\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_118e976968ba02d1a605b156c9a0772946e00419.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\YLY _workspace\sample_zip\CommonUtils-library\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="D:\YLY _workspace\sample_zip\CommonUtils-library\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_18629901db1353d277c008c0bff3c964f30c590f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\YLY _workspace\sample_zip\CommonUtils-library\app\libs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="D:\YLY _workspace\sample_zip\CommonUtils-library\app\build\intermediates\pre-dexed\debug\xUtils-2.6.14_28d1613e22e751d14cff0c82222d2ef031fc4d65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\YLY _workspace\sample_zip\CommonUtils-library\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="D:\YLY _workspace\sample_zip\CommonUtils-library\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_20e9fef25d2a05ae9d01405f6a485266c64afafe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yuliyan\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="D:\YLY _workspace\sample_zip\CommonUtils-library\app\build\intermediates\pre-dexed\debug\okhttp-3.3.0_af3c0df4bf0b69984a79ef1d026640ed1f55686c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yuliyan\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="D:\YLY _workspace\sample_zip\CommonUtils-library\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_9e5ab1f3b1ed6583240021541a1959d6b4656502.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\YLY _workspace\sample_zip\CommonUtils-library\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="D:\YLY _workspace\sample_zip\CommonUtils-library\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_443d301e16b3da39d319e0b38a779ba64693ae2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\YLY _workspace\sample_zip\CommonUtils-library\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="D:\YLY _workspace\sample_zip\CommonUtils-library\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.1_045caebbf68601720451670c944b73acd8de8868.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\YLY _workspace\sample_zip\CommonUtils-library\app\build\intermediates\exploded-aar\com.yanzhenjie\recyclerview-swipe\1.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb0559248d63b7529fc9372280b422ee820a426f">
+        <dex dex="D:\YLY _workspace\sample_zip\CommonUtils-library\app\build\intermediates\pre-dexed\debug\com.yanzhenjie-recyclerview-swipe-1.0.3_32b010108dad30d956d4e34bdb24bccc8b868da9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\YLY _workspace\sample_zip\CommonUtils-library\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="D:\YLY _workspace\sample_zip\CommonUtils-library\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_d2e287abd3fc93f2de479c1b2bea89cf8d4cc533.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yuliyan\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.1\constraint-layout-solver-1.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ad79631209e77b0a2730fc112b4cc0c66a95132">
+        <dex dex="D:\YLY _workspace\sample_zip\CommonUtils-library\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.1_db0b020407f80c379ad085cf19ff53e2134ebd33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\YLY _workspace\sample_zip\CommonUtils-library\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="D:\YLY _workspace\sample_zip\CommonUtils-library\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_d7c4d1716f0bb1b5337d31c1a8d4d0088a97e46b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yuliyan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="D:\YLY _workspace\sample_zip\CommonUtils-library\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_4e8854f3da0a3551fc6a7c9e6c64606a2688902f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\YLY _workspace\sample_zip\CommonUtils-library\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\YLY _workspace\sample_zip\CommonUtils-library\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_8a0db71b43067da32bdb860ce4ee8cdc0a6df1f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\YLY _workspace\sample_zip\CommonUtils-library\app\build\intermediates\exploded-aar\CommonUtils-library\ErvLibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f6e1f603b00629b9ccdca7189cf47a5286b0488">
+        <dex dex="D:\YLY _workspace\sample_zip\CommonUtils-library\app\build\intermediates\pre-dexed\debug\CommonUtils-library-ErvLibrary-unspecified_3cb92bacee9b90edd2fef1d4c611922472d0049f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\YLY _workspace\sample_zip\CommonUtils-library\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="D:\YLY _workspace\sample_zip\CommonUtils-library\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_61a1b53634f8f793e46a70602cad5fd24a61f9f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yuliyan\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="D:\YLY _workspace\sample_zip\CommonUtils-library\app\build\intermediates\pre-dexed\debug\okio-1.8.0_2d42dd77470717a03f5e638c3a65a948a340855d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\YLY _workspace\sample_zip\CommonUtils-library\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="D:\YLY _workspace\sample_zip\CommonUtils-library\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.2.0_8db169e2e80a4c18a604f656dc0173ff7f5238e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\YLY _workspace\sample_zip\CommonUtils-library\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7113302c965566b66df46c6ca75ea301576114a5">
+        <dex dex="D:\YLY _workspace\sample_zip\CommonUtils-library\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.1_b09cfeb28e720d29ae84171d0f7871e39cf6b0f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\YLY _workspace\sample_zip\CommonUtils-library\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="D:\YLY _workspace\sample_zip\CommonUtils-library\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.1_8d3e0d8740cc78863441cdfb8c23651116011434.jar" />
+    </item>
+
+</items>
